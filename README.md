@@ -39,7 +39,7 @@ Cara Menjalankan
 2. Jalankan program utama:
    java after-refactor.ATMCaseStudy
 
-Author
+Author:
 
 
 @fllviad - Ade Esa Aldinnasyah Putra: Refactoring utama, dokumentasi, dan penulisan laporan
