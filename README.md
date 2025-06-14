@@ -46,5 +46,5 @@ Author
 
 @aptaaaa - Muhammad Apta Chandrakanta: Inisialisasi repository dan struktur project
 
-@Hessel45 - Hessel Marciello: Review refactoring dan testing kode hasil refactor
+@Hessel45 - Hessel Marciello: Review refactoring dan testing kode
 
